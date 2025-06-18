@@ -3,7 +3,8 @@
 A clean and minimal Pomodoro Timer built using HTML, CSS, and JavaScript.  
 It helps you stay focused by timing work and break sessions.
 
-![screenshot]([https://user-images.githubusercontent.com/your-github-id/your-image.png](https://github.com/utkarshjeet/pomodoro/blob/main/image.png))
+![screenshot](https://raw.githubusercontent.com/utkarshjeet/pomodoro/main/image.png)
+
 
 ## 🔗 Live Demo
 
