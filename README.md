@@ -8,7 +8,7 @@ It helps you stay focused by timing work and break sessions.
 
 ## 🔗 Live Demo
 
-👉 [Click here to use the timer online](https://utkarshjeet.github.io/Pomodoro/)
+👉 [Click here to use the timer online](https://utkarshjeet.github.io/pomodoro/)
 
 ## ✨ Features
 
